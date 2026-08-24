@@ -26,7 +26,7 @@ The work runs in three phases, all contained in the notebook:
 
 ## Contents
 
-- `dissertation-noise-ml-dl-models.ipynb` — the full pipeline, all three phases,
+- `dissertation-noise.ipynb` — the full pipeline, all three phases,
   organised into the same sections as the dissertation.
 
 ## Data
