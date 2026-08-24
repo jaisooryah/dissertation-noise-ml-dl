@@ -1,7 +1,6 @@
 # dissertation-noise-ml-dl
-MSc dissertation: how human-like label noise shapes ML failures (CIFAR-N)
 
-# How Human-Like Noise Shapes Machine Learning Failures
+# MSc dissertation: How Human-Like Noise Shapes Machine Learning Failures (CIFAR-N)
 
 Code and reproducible experiments for my MSc Data Science dissertation
 (University of Leeds, MATH5872M). The project studies how the *structured*,
